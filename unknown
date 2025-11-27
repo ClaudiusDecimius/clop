@@ -1,0 +1,13 @@
+CC=NO ASN=AS56655 terrahost as
+CC=PE ASN=AS263812 tl group srl ( ipxon networks )
+CVE-2025-61882
+Indicator
+MD5 of 6fd538e4a8e3493dda6f9fcdc96e814bdd14f3e2ef8aa46f0143bff34b882c1b
+MD5 of 76b6d36e04e367a2334c445b51e1ecce97e4c614e88dfb4f72b104ca0f31235d
+SHA1 of 6fd538e4a8e3493dda6f9fcdc96e814bdd14f3e2ef8aa46f0143bff34b882c1b
+SHA1 of 76b6d36e04e367a2334c445b51e1ecce97e4c614e88dfb4f72b104ca0f31235d
+SUSP_shellpop_Bash
+http://198.199.74.207:1234/update.jsp
+http://200.107.207.15/37:
+http://5.188.206.76:8000/se1.dll
+kucoin_loggn.godaddysites.com
